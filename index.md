@@ -88,7 +88,7 @@
 - **Conditions for Exit:**
   - List the conditions for closing a trade
 
-## 5. Risk Management <a href="../risk_management" target="_blank">(!)</a>
+## 5. Risk Management <a href="./risk_management" target="_blank">(!)</a>
 ### Position Sizing
 - **Risk per Trade:**
   - Specify the percentage of capital risked per trade (e.g., 1-2%)
@@ -114,7 +114,7 @@
 
 ## 7. Trading Plan
 ### Daily/Weekly Routine
-- **Routine:** <a href="../routine/trading_routine_(update-6).html" target="_blank">(!)</a>
+- **Routine:** <a href="./routine/trading_routine_(update-6).html" target="_blank">(!)</a>
 
 ### Trading Journal
 - **Trade Recording:**
