@@ -1,0 +1,124 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome file</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="risk-management-strategy">Risk Management Strategy</h1>
+<h2 id="overview">Overview</h2>
+<p>You are trading with a funded account of 100k USD with a maximum allowable drawdown of 10k USD (10%). Your actual risk percentage is calculated based on the 10k USD you are allowed to trade with.</p>
+<h2 id="floors">Floors:</h2>
+
+<table>
+<thead>
+<tr>
+<th>Floor</th>
+<th>Risk per Trade (Funded Account %)</th>
+<th>Risk per Trade (Allowed to Trade %)</th>
+<th>Losing Trades in Row</th>
+<th>Drawdown (percent)</th>
+<th>Total Trades</th>
+<th>Total Drawdown (Allowed to Trade %)</th>
+<th>Total Drawdown (Funded Account %)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>#4</td>
+<td>0.3%</td>
+<td>3%</td>
+<td>4</td>
+<td>12%</td>
+<td>4</td>
+<td>12%</td>
+<td>1.2%</td>
+</tr>
+<tr>
+<td>#3</td>
+<td>0.2%</td>
+<td>2%</td>
+<td>8</td>
+<td>16%</td>
+<td>12</td>
+<td>28%</td>
+<td>2.8%</td>
+</tr>
+<tr>
+<td>#2</td>
+<td>0.15%</td>
+<td>1.5%</td>
+<td>12</td>
+<td>18%</td>
+<td>24</td>
+<td>46%</td>
+<td>4.6%</td>
+</tr>
+<tr>
+<td>#1</td>
+<td>0.1%</td>
+<td>1%</td>
+<td>16</td>
+<td>16%</td>
+<td>40</td>
+<td>62%</td>
+<td>6.2%</td>
+</tr>
+<tr>
+<td>#0</td>
+<td>0.05%</td>
+<td>0.5%</td>
+<td>20</td>
+<td>10%</td>
+<td>60</td>
+<td>72%</td>
+<td>7.2%</td>
+</tr>
+</tbody>
+</table><h2 id="recommendations">Recommendations:</h2>
+<ol>
+<li>
+<p><strong>Lower Initial Risk:</strong></p>
+<ul>
+<li>Reduce the initial risk per trade to 2-3% of the allowed trading amount to prevent significant early drawdowns.</li>
+</ul>
+</li>
+<li>
+<p><strong>Progressive Risk Reduction:</strong></p>
+<ul>
+<li>Continue to reduce risk per trade after a certain number of consecutive losses.</li>
+</ul>
+</li>
+<li>
+<p><strong>Cap Total Drawdown:</strong></p>
+<ul>
+<li>Ensure the total drawdown does not exceed a certain percentage (e.g., 50-60% of the allowed trading amount) to avoid total capital loss.</li>
+</ul>
+</li>
+</ol>
+<h2 id="example-of-adjusted-strategy">Example of Adjusted Strategy:</h2>
+<h3 id="floors-1">Floors:</h3>
+<ul>
+<li><strong>#4:</strong> Risk per Trade: 3% (Allowed to Trade Amount), 0.3% (Funded Account), Losing Trades in Row: 4, Drawdown: 12% (Allowed to Trade Amount), Total Trades: 4, Total Drawdown: 12% (Allowed to Trade Amount), 1.2% (Funded Account)</li>
+<li><strong>#3:</strong> Risk per Trade: 2% (Allowed to Trade Amount), 0.2% (Funded Account), Losing Trades in Row: 8, Drawdown: 16% (Allowed to Trade Amount), Total Trades: 12, Total Drawdown: 28% (Allowed to Trade Amount), 2.8% (Funded Account)</li>
+<li><strong>#2:</strong> Risk per Trade: 1.5% (Allowed to Trade Amount), 0.15% (Funded Account), Losing Trades in Row: 12, Drawdown: 18% (Allowed to Trade Amount), Total Trades: 24, Total Drawdown: 46% (Allowed to Trade Amount), 4.6% (Funded Account)</li>
+<li><strong>#1:</strong> Risk per Trade: 1% (Allowed to Trade Amount), 0.1% (Funded Account), Losing Trades in Row: 16, Drawdown: 16% (Allowed to Trade Amount), Total Trades: 40, Total Drawdown: 62% (Allowed to Trade Amount), 6.2% (Funded Account)</li>
+<li><strong>#0:</strong> Risk per Trade: 0.5% (Allowed to Trade Amount), 0.05% (Funded Account), Losing Trades in Row: 20, Drawdown: 10% (Allowed to Trade Amount), Total Trades: 60, Total Drawdown: 72% (Allowed to Trade Amount), 7.2% (Funded Account)</li>
+</ul>
+<h2 id="backtesting-tips">Backtesting Tips:</h2>
+<ul>
+<li><strong>Historical Data:</strong> Use at least 5-10 years of historical data for a robust backtest.</li>
+<li><strong>Simulate Realistic Conditions:</strong> Include slippage, spread, and commissions to simulate real trading conditions.</li>
+<li><strong>Evaluate Performance:</strong> Analyze key metrics like win rate, profit factor, maximum drawdown, and average return per trade.</li>
+<li><strong>Multiple Market Conditions:</strong> Test your strategy across different market conditions to ensure robustness.</li>
+<li><strong>Sample Size:</strong> Use a large enough sample of trades to get statistically significant results.</li>
+</ul>
+<p>By following this strategy and recommendations, you can aim for better capital protection and steady growth in your trading journey. If you have any further questions or need more adjustments, feel free to ask!</p>
+</div>
+</body>
+
+</html>
