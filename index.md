@@ -7,7 +7,7 @@
 - **Time Commitment:** How much time you can dedicate to trading each day/week.
 - **Risk Tolerance:** Your overall risk tolerance (e.g., conservative, moderate, aggressive). 
 
-## 2. Market and Instruments
+## 2. Market and Instruments <a href="./guidance/markets_and_instruments_to_trade.html" target="_blank">(!)</a>
 - **Market:**
 	- Commodities
 - **Instruments:**

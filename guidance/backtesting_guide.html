@@ -1,0 +1,133 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>trading_plan.md</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h1 id="manual-backtesting-guide">Manual Backtesting Guide</h1>
+<h2 id="prepare-your-chart">1. Prepare Your Chart</h2>
+<ul>
+<li>
+<p><strong>Asset</strong>: Choose the financial instrument you want to backtest (e.g., XAUUSD, GBPUSD).</p>
+</li>
+<li>
+<p><strong>Time Frame</strong>: Select your time frame (e.g., 1-hour, daily).</p>
+</li>
+<li>
+<p><strong>Historical Data</strong>: Scroll back to a past period to avoid bias from future price movements.</p>
+</li>
+</ul>
+<h2 id="strategy-setup">2. Strategy Setup</h2>
+<p>Define your strategy rules for the backtest. Example (Trend Following):</p>
+<ul>
+<li>
+<p><strong>Trend Identification</strong>: Price should be above the 200 SMMA for long trades, or below for short trades.</p>
+</li>
+<li>
+<p><strong>RSI Confirmation</strong>:</p>
+</li>
+<li>
+<p>For long trades, RSI should be above 50.</p>
+</li>
+<li>
+<p>For short trades, RSI should be below 50.</p>
+</li>
+<li>
+<p><strong>Signal</strong>: Look for a big candle or a three-line strike pattern.</p>
+</li>
+<li>
+<p><strong>Stop-Loss</strong>: Place at recent swing low (for long) or swing high (for short).</p>
+</li>
+<li>
+<p><strong>Take Profit</strong>: Minimum 1:2 risk-reward ratio.</p>
+</li>
+</ul>
+<h2 id="manual-backtesting-steps">3. Manual Backtesting Steps</h2>
+<ul>
+<li>
+<p><strong>Scroll the Chart Forward</strong>: Move forward bar by bar to simulate live market conditions.</p>
+</li>
+<li>
+<p><strong>Identify Trade Setups</strong>: When a valid setup occurs, take note of:</p>
+</li>
+<li>
+<p>Entry price</p>
+</li>
+<li>
+<p>Stop-loss level</p>
+</li>
+<li>
+<p>Take-profit level</p>
+</li>
+<li>
+<p><strong>Record the Trade</strong>: Once you’ve identified a setup, note the details of the trade.</p>
+</li>
+</ul>
+<h2 id="trade-logging">4. Trade Logging</h2>
+<p>For each trade, record the following in a spreadsheet:</p>
+<ul>
+<li>
+<p><strong>Entry date/time</strong></p>
+</li>
+<li>
+<p><strong>Entry price</strong></p>
+</li>
+<li>
+<p><strong>Stop-loss</strong></p>
+</li>
+<li>
+<p><strong>Take-profit</strong></p>
+</li>
+<li>
+<p><strong>Exit price</strong></p>
+</li>
+<li>
+<p><strong>Profit/loss on the trade</strong></p>
+</li>
+<li>
+<p><strong>Reason for trade entry</strong></p>
+</li>
+</ul>
+<h2 id="review-results">5. Review Results</h2>
+<p>After testing multiple trades:</p>
+<ul>
+<li>
+<p>Calculate total number of trades.</p>
+</li>
+<li>
+<p>Count the number of winning and losing trades.</p>
+</li>
+<li>
+<p>Calculate your win/loss ratio and total profit or loss.</p>
+</li>
+</ul>
+<h2 id="analyze-and-adjust">6. Analyze and Adjust</h2>
+<ul>
+<li>
+<p>Look for patterns where your strategy performs better or worse.</p>
+</li>
+<li>
+<p>Consider tweaking your strategy based on the performance across different market conditions.</p>
+</li>
+</ul>
+<h2 id="tips-for-effective-manual-backtesting">Tips for Effective Manual Backtesting</h2>
+<ul>
+<li>
+<p><strong>Consistency</strong>: Always follow your strategy’s rules during the backtest.</p>
+</li>
+<li>
+<p><strong>Objectivity</strong>: Avoid changing the strategy mid-test based on past results.</p>
+</li>
+<li>
+<p><strong>Comprehensive Testing</strong>: Backtest across different market conditions (uptrend, downtrend, sideways).</p>
+</li>
+</ul>
+</div>
+</body>
+
+</html>

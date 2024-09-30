@@ -1,4 +1,5 @@
-﻿# Weekly Trading Routine
+﻿
+# Weekly Trading Routine
 
 ## Goals
 
@@ -41,10 +42,10 @@
 -   Reflect on lessons learned and areas for improvement.
 -   **30 minutes:** Reflect on your trading day. Discuss what went well, what didn’t, and any lessons learned. This will help reinforce your trading knowledge while practicing your English.
 
-### 12:00 PM - 2:00 PM: Skill Development [(!)](./guidance/Skill_Development_Guide.html)
+### 12:00 PM - 2:00 PM: Skill Development 
 
 -   Study trading books, courses, or articles.
--   Backtest strategies and review historical market data. <a href="../guidens/backtesting_guide.html" target="_blank">(!)</a>
+-   Backtest strategies and review historical market data. <a href="../guidance/backtesting_guide.html" target="_blank">(!)</a>
 -   Simulate trading in a demo account to practice new strategies.
 
 ### 2:00 PM - 3:00 PM: Lunch Break
@@ -52,12 +53,12 @@
 -   Eat a healthy lunch to recharge your energy.
 -   Check Instagram for 15 minutes if desired, using a timer.
 
-### 3:00 PM - 4:00 PM: Market Analysis [(!)](./guidance/Market_Analysis_Guide.html)
+### 3:00 PM - 4:00 PM: Market Analysis <a href="./guidance/Market_Analysis_Guide.html" target="_blank">(!)</a>
 
 -   Analyze the broader market and identify trends.
 -   Prepare for the next trading day by identifying potential trades and setting alerts.
 
-### 4:00 PM - 6:00 PM: Continued Education [(!)](./guidance/Continued_Education_Guide.html)
+### 4:00 PM - 6:00 PM: Continued Education <a href="./guidance/Continued_Education_Guide.html" target="_blank">(!)</a>
 
 -   Watch webinars, tutorials, or participate in trading communities.
 -   Read market analysis reports and trader interviews to gain different perspectives.
@@ -74,12 +75,12 @@
 
 -   Read personal development books to enhance your knowledge and mindset.
 
-### 9:00 PM - 9:45 PM: English Speaking Practice [(!)](./guidance/English_Speaking_Practice_Guide.html)
+### 9:00 PM - 9:45 PM: English Speaking Practice <a href="./guidance/English_Speaking_Practice_Guide.html" target="_blank">(!)</a>
 
 -   **15 minutes:** Casual conversation about non-trading topics. This could be about your hobbies, news, or anything else you’re interested in. This will help you build a broader vocabulary and improve fluency.
 -   **30 minutes:** Discuss the day’s achievements and set goals for the next day.
 
-### 9:45 PM - 10:00 PM: Wind Down [(!)](./guidance/Wind_Down_Guide.html)
+### 9:45 PM - 10:00 PM: Wind Down <a href="./guidance/Wind_Down_Guide.html" target="_blank">(!)</a>
 
 -   Relax and prepare for bed.
 -   Briefly check Instagram if desired, using a timer.
@@ -92,13 +93,13 @@
 
 -   Exercise and have a healthy breakfast.
 
-### 9:00 AM - 12:00 PM: Weekly Review [(!)](./guidance/Weekly_Review_Guide.html)
+### 9:00 AM - 12:00 PM: Weekly Review <a href="./guidance/Weekly_Review_Guide.html" target="_blank">(!)</a>
 
 -   Analyze all trades made during the week.
 -   Identify patterns, mistakes, and areas for improvement.
 -   Adjust your trading plan based on your findings.
 
-### 12:00 PM - 2:00 PM: Strategy Development [(!)](./guidance/Strategy_Development_Guide.html)
+### 12:00 PM - 2:00 PM: Strategy Development <a href="./guidance/Strategy_Development_Guide.html" target="_blank">(!)</a>
 
 -   Research new trading strategies.
 -   Backtest and refine your strategies using historical data.
@@ -112,12 +113,12 @@
 
 -   Read personal development books to enhance your knowledge and mindset.
 
-### 4:00 PM - 5:00 PM: Continued Education [(!)](./guidance/Continued_Education_Guide.html)
+### 4:00 PM - 5:00 PM: Continued Education <a href="./guidance/Continued_Education_Guide.html" target="_blank">(!)</a>
 
 -   Study trading psychology, risk management, and other advanced topics.
 -   Engage with trading communities and forums.
 
-### 5:00 PM - 6:00 PM: Speaking Practice Session [(!)](./guidance/Speaking_Practice_Session_Guide.html)
+### 5:00 PM - 6:00 PM: Speaking Practice Session 
 
 -   Casual conversation about non-trading topics to build a broader vocabulary and improve fluency.
 
@@ -129,7 +130,7 @@
 
 -   Engage in hobbies, spend time with family, or unwind.
 
-### 9:00 PM - 10:00 PM: Wind Down [(!)](./guidance/Wind_Down_Guide.html)
+### 9:00 PM - 10:00 PM: Wind Down <a href="./guidance/Wind_Down_Guide.html" target="_blank">(!)</a>
 
 -   Prepare for bed and relax.
 
@@ -141,12 +142,12 @@
 
 -   Exercise and have a healthy breakfast.
 
-### 9:00 AM - 12:00 PM: Market Research [(!)](./guidance/Market_Research_Guide.html)
+### 9:00 AM - 12:00 PM: Market Research <a href="./guidance/Market_Research_Guide.html" target="_blank">(!)</a>
 
 -   Review major economic events and news for the upcoming week.
 -   Analyze weekly charts and identify key levels and trends.
 
-### 12:00 PM - 2:00 PM: Trading Plan [(!)](./guidance/Trading_Plan_Guide.html)
+### 12:00 PM - 2:00 PM: Trading Plan <a href="./guidance/Trading_Plan_Guide.html" target="_blank">(!)</a>
 
 -   Develop a detailed trading plan for the upcoming week.
 -   Set goals and objectives for your trading.
@@ -159,12 +160,12 @@
 
 -   Read personal development books to enhance your knowledge and mindset.
 
-### 4:00 PM - 5:00 PM: Continued Education [(!)](./guidance/Continued_Education_Guide.html)
+### 4:00 PM - 5:00 PM: Continued Education <a href="./guidance/Continued_Education_Guide.html" target="_blank">(!)</a>
 
 -   Study and review materials related to trading.
 -   Participate in webinars or trading group discussions.
 
-### 5:00 PM - 6:00 PM: Speaking Practice Session [(!)](./guidance/Speaking_Practice_Session_Guide.html)
+### 5:00 PM - 6:00 PM: Speaking Practice Session
 
 -   Casual conversation about non-trading topics to build a broader vocabulary and improve fluency.
 
@@ -177,12 +178,12 @@
 -   Relax and prepare for the week ahead.
 -   Reflect on your goals and mindset.
 
-### 9:00 PM - 9:45 PM: English Speaking Practice [(!)](./guidance/English_Speaking_Practice_Guide.html)
+### 9:00 PM - 9:45 PM: English Speaking Practice <a href="./guidance/English_Speaking_Practice_Guide.html" target="_blank">(!)</a>
 
 -   **15 minutes:** Casual conversation about non-trading topics. This could be about your hobbies, news, or anything else you’re interested in. This will help you build a broader vocabulary and improve fluency.
 -   **30 minutes:** Discuss the day’s achievements and set goals for the next day.
 
-### 9:45 PM - 10:00 PM: Wind Down [(!)](./guidance/Wind_Down_Guide.html)
+### 9:45 PM - 10:00 PM: Wind Down <a href="./guidance/Wind_Down_Guide.html" target="_blank">(!)</a>
 
 -   Prepare for bed and ensure you’re well-rested for the trading week ahead.
 
@@ -201,10 +202,7 @@
 
 ## Current Trading Strategies:
 
--   **Trend Following:** Trade with the trend using the 200 SMMA, big candles, or three-line strikes. RSI must be above 50 for long positions and below 50 for short positions. Minimum risk-reward ratio is 1:2.
--   **Elliot Wave Theory:** Utilize Elliot Wave Theory in market analysis and trading decisions.
--   **Volume-Based Strategy:** Trade when market volume wakes up, following the move if there is a long wicked candle after an up wave or in a down wave.
+-   **Trend Momentum Strategy (TMS)** <a href="../strategies/TMS.html" target="_blank">(!)</a>
+-   **Elliot Wave Theory:** Use this to analyze market waves and predict future price movements.
+-   **Market Volume:** Follow the move if there's a long-wicked candle after an up wave or in a down wave. Focus on trading when the market volume increases.
 
-----------
-
-Following this routine consistently will help you develop the discipline and skills needed to become a successful trader. Stay focused, keep learning, and always strive for improvement. Good luck on your journey to becoming one of the best traders in the world!
