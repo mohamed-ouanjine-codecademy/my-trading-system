@@ -13,59 +13,9 @@
 - **Instruments:**
 	- XAUUSD
 
-## 3. Trading Strategy
+## 3. Trading Strategies <a href="./strategies" target="_blank">(!)</a>
 
-### Trend Following Strategy
-
-1. **Trading Setup:**
-   - 21, 50, and 200 SMMA (Smoothed Moving Average) all line up
-   - RSI (14)
-   - Ensure there is a retracement before entering a trade
-
-2. **Entry Signals:**
-   - **Enter LONG if:**
-     - Price above the 200 SMMA
-     - RSI above the 50
-     - Presence of big candles and/or a three-line strike pattern
-   - **Enter SHORT if:**
-     - Price below the 200 SMMA
-     - RSI below the 50
-     - Presence of big candles and/or a three-line strike pattern
-
-3. **Exit Strategy:**
-   - **Stop-Loss (SL):**
-     - Place the SL based on recent support/resistance levels or below/above the recent swing low/high
-   - **Take-Profit (TP):**
-     - Set TP based on a risk-reward ratio of at least 1:2
-     - Use Fibonacci extension levels to determine potential TP levels
-
-4. **Example Trade Scenarios:**
-   - **LONG Trade Example:**
-     - **Conditions Met:**
-       - Price above 200 SMMA
-       - RSI at 55
-       - Presence of a big bullish engulfing candle
-     - **Action:**
-       - Enter long position
-       - Place SL below the recent swing low
-       - Set TP at a level ensuring a minimum 1:2 risk-reward ratio, possibly using Fibonacci extension for additional TP levels
-   - **SHORT Trade Example:**
-     - **Conditions Met:**
-       - Price below 200 SMMA
-       - RSI at 45
-       - Presence of a big bearish candle
-     - **Action:**
-       - Enter short position
-       - Place SL above the recent swing high
-       - Set TP at a level ensuring a minimum 1:2 risk-reward ratio, possibly using Fibonacci extension for additional TP levels
-
-5. **Notes:**
-   - **Market Conditions:**
-     - Avoid trading during low volume periods or major news events that might cause unexpected volatility
-   - **Review and Adjustments:**
-     - Regularly review your trades to ensure the strategy remains effective
-     - Make necessary adjustments based on market behavior and performance analysis
-
+### Trend Momentum Strategy (TMS) <a href="./strategies/TMS.html" target="_blank">(!)</a>
 
 ### Elliot Wave Theory
 - **Patterns:**
@@ -114,7 +64,7 @@
 
 ## 7. Trading Plan
 ### Daily/Weekly Routine
-- **Routine:** <a href="./routine/trading_routine_(update-6).html" target="_blank">(!)</a>
+- **Routine:** <a href="./routine/trading_routine.html" target="_blank">(!)</a>
 
 ### Trading Journal
 - **Trade Recording:**
